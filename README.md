@@ -27,11 +27,11 @@ This project contains two Python implementations of number guessing games:
 ### Steps:
 1. Clone the repository or download the Python files to your local machine.
    ```bash
-   git clone https://github.com/yourusername/number-guessing-games.git
+   git clone https://github.com/budagabrielchristian/Guess-The-Number-Python.git
    ```
 2. Navigate to the directory where the Python files are stored.
    ```bash
-   cd number-guessing-games
+   cd Guess-The-Number-Python
    ```
 
 ---
@@ -44,12 +44,12 @@ To start the guessing game, execute either of the Python files:
 
 1. **Random Number Guesser**:
    ```bash
-   python random_guesser.py
+   python main.py
    ```
 
 2. **Binary Search Guesser**:
    ```bash
-   python binary_search_guesser.py
+   python computer_playing.py
    ```
 
 ---
